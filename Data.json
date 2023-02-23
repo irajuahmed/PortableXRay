@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "position": "Developer",
+    "image":"https://raw.githubusercontent.com/irajuahmed/FetchImageFromGithubRepoUsingJS/main/images/team-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "position": "Designer",
+    "image":"https://raw.githubusercontent.com/irajuahmed/FetchImageFromGithubRepoUsingJS/main/images/team-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "position": "Manager",
+    "image":"https://raw.githubusercontent.com/irajuahmed/FetchImageFromGithubRepoUsingJS/main/images/team-3.jpg"
+  }
+]
