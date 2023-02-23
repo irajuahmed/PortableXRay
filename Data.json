@@ -7,7 +7,7 @@
     "TweeterUrl": "",       
     "LinkedinUrl": "",       
     "InstagramUrl": "",       
-    "Image":"https://raw.githubusercontent.com/irajuahmed/FetchImageFromGithubRepoUsingJS/main/images/team-1.jpg"
+    "Image":"https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/images/team-1.jpg"
   },
   {
     "Id": 2,
@@ -17,7 +17,7 @@
     "TweeterUrl": "",       
     "LinkedinUrl": "",       
     "InstagramUrl": "",       
-    "Image":"https://raw.githubusercontent.com/irajuahmed/FetchImageFromGithubRepoUsingJS/main/images/team-1.jpg"
+    "Image":"https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/images/team-1.jpg"
   },
   {
     "Id": 3,
@@ -27,6 +27,6 @@
     "TweeterUrl": "",       
     "LinkedinUrl": "",       
     "InstagramUrl": "",       
-    "Image":"https://raw.githubusercontent.com/irajuahmed/FetchImageFromGithubRepoUsingJS/main/images/team-1.jpg"
+    "Image":"https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/images/team-1.jpg"
   }
 ]
