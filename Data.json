@@ -28,5 +28,15 @@
     "LinkedinUrl": "",       
     "InstagramUrl": "",       
     "Image":"https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/Images/team-1.jpg"
+  },
+  {
+    "Id": 4,
+    "Name": "Jhon Sina",
+    "Designation": "Jr. Technician",
+    "FacebookUrl": "",
+    "TweeterUrl": "",       
+    "LinkedinUrl": "",       
+    "InstagramUrl": "",       
+    "Image":"https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/Images/team-1.jpg"
   }
 ]
