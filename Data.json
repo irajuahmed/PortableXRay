@@ -1,5 +1,5 @@
  {
-            Team: [
+            "Team": [
                 {
                     "Id": 1,
                     "Name": "John Doe",
@@ -40,8 +40,8 @@
                     "InstagramUrl": "",
                     "Image": "https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/Images/team-1.jpg"
                 }
-            ];
-            Testimonial: [
+            ],
+            "Testimonial": [
                 {
                     "Id": 1,
                     "ClientName": "Aslam Hossain Mishu",
