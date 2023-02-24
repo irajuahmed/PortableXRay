@@ -46,24 +46,28 @@
                     "Id": 1,
                     "ClientName": "Aslam Hossain Mishu",
                     "Profession": "Banker",
+                    "Message":"They are really good at providing service.",
                     "Image": "https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/Images/Testimonial/testimonial-1.jpg"
                 },
                 {
                     "Id": 2,
                     "ClientName": "Imam Hossain",
                     "Profession": "Service",
+                    "Message":"They deliver report on time with best quality.",
                     "Image": "https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/Images/Testimonial/testimonial-1.jpg"
                 },
                 {
                     "Id": 3,
                     "ClientName": "Kabir Hossain",
                     "Profession": "Farmer",
+                    "Message":"I got service from them at 3:30 AM, wishing them best of luck.",
                     "Image": "https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/Images/Testimonial/testimonial-1.jpg"
                 },
                 {
                     "Id": 4,
                     "ClientName": "Kutub Uddin",
                     "Profession": "Business",
+                    "Message":"Mr. Maruf is a good & experienced person who has the sense of time & patient.",
                     "Image": "https://raw.githubusercontent.com/irajuahmed/PortableXRay/main/Images/Testimonial/testimonial-1.jpg"
                 }
             ]
